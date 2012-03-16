@@ -1,0 +1,27 @@
+June 2 => Spoke with prof. heishmen about project plans and how we will start.  
+3 - 5 PM
+Researched how to write a System Requirement Specification. 
+11 - 12 PM
+Researched how to use Latex.  Downloaded some sample latex articles in .tex format and read them over.
+
+June 3 => 
+3 - 5 PM 
+Started outline of the SRS.  Started writing the SRS in Microsoft Word to get a glimpse of what the final product should look like.
+8 - 11 PM
+Researched how to use Latex some more.  Downloaded and installed Texnic Center.  Spent the rest of the time trying to understand how it works.  Wrote most of the SRS in Texnic Center but could not figure out how to convert it to pdf or any readable format.  Power later went out and I lost most of the work, but had a back up in Microsoft Word format.
+
+June 4 =>
+11 - 3:00 AM
+Began to rewrite the SRS in Latex.  The majority of the SRS was complete but I was unable to convert it to pdf format.  
+4:30 - 4:45 PM
+Met with prof. heishmen to discuss the SRS, and any problems I was facing while writing it.  
+6:30 - 10:00 PM
+Since I began working on the SRS on the mason campus, I had to redownload Texnic Center and install it again.  After I finished writing the SRS and proofreading it, I tried to convert it to .pdf format unsuccessfully.  Finally I downloaded and installed MikTex.  I found the command line much easier to use.  After converting the file to .dvi format to be able to read it, I noticed the formatting was bad.  Lines were too spaced out and after inserting an image the paper created a new page after it.
+10:00 - 11:00 PM
+Finally I edited the image to a .gif format, with the same results.  When I converted the paper into .pdf everything seemed to work out. 
+
+June 8 => 
+
+June 9 - 10-12 PM
+Worked on creating a Graphical user interface.  
+
